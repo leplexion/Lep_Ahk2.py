@@ -4,6 +4,9 @@ use Autohotkey H v2 dll in python, you can set hotkey on python or use all autoh
 
 在Python中调用 Autohotkey H v2 dll 的功能库, 可设置热键, 调用所有ahk功能等
 
+个人Q群: 690058080 - Coder FriendShip | 码农贼船
+
+
 # methods / 方法
 - __init__(self, dllpath:str='', title:str='', cmdline:str='')  # just entry the dllpath param / 正常使用只要填入 dllpath
 
